@@ -1,5 +1,3 @@
-package Fernando;
-
 import java.util.Scanner;
 
 public class exercicio348 {
